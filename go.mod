@@ -1,4 +1,4 @@
-module github.com/nformenton/homebroker/go
+module github.com/Nicolas-Formenton/homebroker/go
 
 go 1.20
 
